@@ -14,7 +14,7 @@ The MCAD-MM introduces a novel approach for the acoustic detection of marine mam
 
 
 ## Dataset Download
-The MCAD-MM dataset can be downloaded via the [Baidu Netdisk](https://pan.baidu.com/s/1jKAl2qK_tYE77muw7c5lBw?pwd=IMTS) or [Hugging Face](https://huggingface.co/datasets/snzknight/MCAD-MM/resolve/main/dclde.zip?download=true)links.
+The MCAD-MM dataset can be downloaded via the [Baidu Netdisk](https://pan.baidu.com/s/1jKAl2qK_tYE77muw7c5lBw?pwd=IMTS) or [Hugging Face](https://huggingface.co/datasets/snzknight/MCAD-MM/resolve/main/dclde.zip?download=true) links.
 
 ## Preparation
 For installation and data preparation instructions, please refer to [PREPARATION.md](docs/PREPARATION.md).
