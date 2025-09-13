@@ -29,6 +29,8 @@ The results are provided in [MODEL_ZOO.md](docs/MODEL_ZOO.md).
 The data and code in this repo are released under the [Apache 2.0 license](LICENSE).
 
 ## Acknowledgement
+The benchmark data of this study is derived from the DCLDE Oahu passive acoustic dataset obtained through NOAA PIFSC's 2017 Hawaiian Islands Cetacean and Ecosystem Assessment Survey (HICEAS). The original data was edited and annotated by the DCLDE 2022 working group (Yano et al. 2018) [https://www.soest.hawaii.edu/ore/dclde/dataset/]. We further processed the audio data into spectrograms suitable for deep learning applications.
+
 We would like to express our gratitude to the contributors of the following codebases and data products:
 
 - [hustvl/Vim](https://github.com/hustvl/Vim)
